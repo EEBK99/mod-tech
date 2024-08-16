@@ -41,11 +41,11 @@ const MainBanner = () => {
                       <div className="slider-content one">
                         <h1>ModTech Elevators</h1>
                         <p>
-                          Mod Crest Elevators, Alhamdulillah can possibly
-                          furnish you with every one of the services you want
-                          with next to no problem whether it is introducing
-                          another lift or a current one, Maintenance or fixing,
-                          everything you really want.
+                          Elevate Your Experience with Mod Tech Elevators! From
+                          seamless new installations to expert maintenance and
+                          repairs, we handle it all with zero hassle. Discover
+                          effortless solutions for all your elevator needs
+                          today!
                         </p>
 
                         <div className="slider-btn text-center">
@@ -71,9 +71,10 @@ const MainBanner = () => {
                   <div className="row align-items-center">
                     <div className="col-lg-12 text-center">
                       <div className="slider-content one">
-                        <h1>A solid group</h1>
+                        <h1>Elevate with Excellence: Mod Tech Elevators</h1>
                         <p>
-                          Welcome to ModTech Elevators we are here to serve you
+                          Welcome to ModTech Elevators. We are here to serve
+                          you.
                         </p>
 
                         <div className="slider-btn text-center">
@@ -99,15 +100,15 @@ const MainBanner = () => {
                   <div className="row align-items-center">
                     <div className="col-lg-12 text-center">
                       <div className="slider-content one">
-                        <h1>OUR PROJECTS & EXPERTISE</h1>
+                        <h1>Serving Pakistan with Excellence and Innovation</h1>
                         <p>
-                          "Established in Punjab, Serving entire Pakistan" Mod
-                          Tech generally accept quality is the foundation of big
-                          business endurance and advancement. Refined plan,
-                          wonderful strong quality, quick establishment and cozy
-                          after-deals administrations, Mod Crest has proactively
-                          offered an agreeable, wellbeing and solid lift
-                          framework for large number of buildings.
+                          Established in Punjab and serving all of Pakistan, Mod
+                          Tech believes that quality is the cornerstone of
+                          business success and growth. With sophisticated
+                          design, exceptional durability, quick installation,
+                          and dedicated after-sales service, Mod Tech has
+                          already provided comfortable, safe, and reliable
+                          elevator systems to thousands of buildings.
                         </p>
 
                         <div className="slider-btn text-center">

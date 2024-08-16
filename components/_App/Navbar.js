@@ -56,7 +56,7 @@ const Navbar = () => {
 
               <div className={classOne} id="navbarSupportedContent">
                 <ul className="navbar-nav text-left">
-                  <li className="nav-item">
+                  {/* <li className="nav-item">
                     <Link href="/index">
                       <a
                         onClick={(e) => e.preventDefault()}
@@ -76,7 +76,7 @@ const Navbar = () => {
                       </li>
                     </ul>
 
-                    {/* <ul className="dropdown-menu">
+                    <ul className="dropdown-menu">
                       <li className="nav-item">
                         <Link href="/index-2" activeClassName="active">
                           <a onClick={toggleNavbar} className="nav-link">
@@ -84,7 +84,15 @@ const Navbar = () => {
                           </a>
                         </Link>
                       </li>
-                    </ul> */}
+                    </ul>
+                  </li> */}
+
+                  <li className="nav-item">
+                    <Link href="/" activeClassName="active">
+                      <a onClick={toggleNavbar} className="nav-link">
+                        Home
+                      </a>
+                    </Link>
                   </li>
 
                   <li className="nav-item">
@@ -96,6 +104,14 @@ const Navbar = () => {
                   </li>
 
                   <li className="nav-item">
+                    <Link href="/solutions" activeClassName="active">
+                      <a onClick={toggleNavbar} className="nav-link">
+                        Service
+                      </a>
+                    </Link>
+                  </li>
+
+                  {/* <li className="nav-item">
                     <Link href="#">
                       <a
                         onClick={(e) => e.preventDefault()}
@@ -114,9 +130,9 @@ const Navbar = () => {
                         </Link>
                       </li>
                     </ul>
-                  </li>
+                  </li> */}
 
-                  <li className="nav-item">
+                  {/* <li className="nav-item">
                     <ul className="dropdown-menu">
                       <li className="nav-item">
                         <Link href="/case-studies" activeClassName="active">
@@ -137,9 +153,9 @@ const Navbar = () => {
                         </Link>
                       </li>
                     </ul>
-                  </li>
+                  </li> */}
 
-                  <li className="nav-item">
+                  {/* <li className="nav-item">
                     <Link href="#">
                       <a
                         onClick={(e) => e.preventDefault()}
@@ -166,6 +182,14 @@ const Navbar = () => {
                         </Link>
                       </li>
                     </ul>
+                  </li> */}
+
+                  <li className="nav-item">
+                    <Link href="/blog" activeClassName="active">
+                      <a onClick={toggleNavbar} className="nav-link">
+                        Elevators
+                      </a>
+                    </Link>
                   </li>
 
                   <li className="nav-item">

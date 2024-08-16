@@ -2,7 +2,7 @@ import React from "react";
 import Head from "next/head";
 import GoTop from "./GoTop";
 import Preloader from "./Preloader";
-import LangSidebar from "./LangSidebar";
+// import LangSidebar from "./LangSidebar";
 
 const Layout = ({ children }) => {
   // Preloader
@@ -22,18 +22,18 @@ const Layout = ({ children }) => {
         />
         <meta
           name="description"
-          content="Zoko - React Next IT Solutions Company Template"
+          content="ModTech - A Elevator and Escalators Manufacturing Company."
         />
         <meta
           name="og:title"
           property="og:title"
-          content="Zoko - React Next IT Solutions Company Template"
+          content="ModTech - A Elevator and Escalators Manufacturing Company."
         ></meta>
         <meta
           name="twitter:card"
-          content="Zoko - React Next IT Solutions Company Template"
+          content="ModTech - A Elevator and Escalators Manufacturing Company."
         ></meta>
-        <link rel="canonical" href="https://zoko-react.hibootstrap.com/"></link>
+        <link rel="canonical" href="https://modtech.netlify.app/"></link>
       </Head>
 
       {children}
@@ -42,7 +42,7 @@ const Layout = ({ children }) => {
 
       <GoTop scrollStepInPx="100" delayInMs="10.50" />
 
-      <LangSidebar />
+      {/* <LangSidebar /> */}
     </>
   );
 };

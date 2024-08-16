@@ -155,7 +155,7 @@ const Solutions = () => {
             </div>
 
             {/* Pagination */}
-            <div className="col-lg-12">
+            {/* <div className="col-lg-12">
               <div className="page-navigation-area">
                 <ul className="pagination">
                   <li className="page-item">
@@ -185,7 +185,7 @@ const Solutions = () => {
                   </li>
                 </ul>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>

@@ -9,12 +9,12 @@ const TopHeaderTwo = () => {
             <div className="header-content-right">
               <ul className="header-contact">
                 <li>
-                  <a href="tel:+1123456789">
+                  <a href="tel:+92 300 8502133">
                     <i className="bx bxs-phone-call"></i> +92 300 8502133
                   </a>
                 </li>
                 <li>
-                  <a href="mailto:hello@zoko.com">
+                  <a href="mailto:shmtar@yahoo.com">
                     <i className="bx bxs-envelope"></i> shmtar@yahoo.com
                   </a>
                 </li>

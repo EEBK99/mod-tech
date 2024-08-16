@@ -46,12 +46,12 @@ const Blog = () => {
                 </div>
 
                 <div className="content">
-                  <ul>
+                  {/* <ul>
                     <li>10 April 2020</li>
                     <li>
                       <a href="#">By Mod Tech Elevators</a>
                     </li>
-                  </ul>
+                  </ul> */}
 
                   <Link href="/blog-details">
                     <a>
@@ -64,9 +64,9 @@ const Blog = () => {
                     purchasers
                   </p>
 
-                  <Link href="/blog-details">
+                  {/* <Link href="/blog-details">
                     <a className="line-bnt">Read More</a>
-                  </Link>
+                  </Link> */}
                 </div>
               </div>
             </div>
@@ -82,12 +82,12 @@ const Blog = () => {
                 </div>
 
                 <div className="content">
-                  <ul>
+                  {/* <ul>
                     <li>10 April 2020</li>
                     <li>
                       <a href="#">by Mod Tech Elevators</a>
                     </li>
-                  </ul>
+                  </ul> */}
 
                   <Link href="/blog-details">
                     <a>
@@ -102,9 +102,9 @@ const Blog = () => {
                     the rail.
                   </p>
 
-                  <Link href="/blog-details">
+                  {/* <Link href="/blog-details">
                     <a className="line-bnt">Read More</a>
-                  </Link>
+                  </Link> */}
                 </div>
               </div>
             </div>
@@ -120,12 +120,12 @@ const Blog = () => {
                 </div>
 
                 <div className="content">
-                  <ul>
+                  {/* <ul>
                     <li>10 April 2020</li>
                     <li>
                       <a href="#">By Mod Tech Elevators</a>
                     </li>
-                  </ul>
+                  </ul> */}
 
                   <Link href="/blog-details">
                     <a>
@@ -141,9 +141,9 @@ const Blog = () => {
                     circumstances.
                   </p>
 
-                  <Link href="/blog-details">
+                  {/* <Link href="/blog-details">
                     <a className="line-bnt">Read More</a>
-                  </Link>
+                  </Link> */}
                 </div>
               </div>
             </div>
@@ -159,12 +159,12 @@ const Blog = () => {
                 </div>
 
                 <div className="content">
-                  <ul>
+                  {/* <ul>
                     <li>11 April 2020</li>
                     <li>
                       <a href="#">By Mod Tech Elevators</a>
                     </li>
-                  </ul>
+                  </ul> */}
 
                   <Link href="/blog-details">
                     <a>
@@ -180,9 +180,9 @@ const Blog = () => {
                     floors.
                   </p>
 
-                  <Link href="/blog-details">
+                  {/* <Link href="/blog-details">
                     <a className="line-bnt">Read More</a>
-                  </Link>
+                  </Link> */}
                 </div>
               </div>
             </div>
@@ -198,12 +198,12 @@ const Blog = () => {
                 </div>
 
                 <div className="content">
-                  <ul>
+                  {/* <ul>
                     <li>11 April 2020</li>
                     <li>
                       <a href="#">By Mod Tech Elevators</a>
                     </li>
-                  </ul>
+                  </ul> */}
 
                   <Link href="/blog-details">
                     <a>
@@ -220,9 +220,9 @@ const Blog = () => {
                     Shocks
                   </p>
 
-                  <Link href="/blog-details">
+                  {/* <Link href="/blog-details">
                     <a className="line-bnt">Read More</a>
-                  </Link>
+                  </Link> */}
                 </div>
               </div>
             </div>
@@ -238,12 +238,12 @@ const Blog = () => {
                 </div>
 
                 <div className="content">
-                  <ul>
+                  {/* <ul>
                     <li>11 April 2020</li>
                     <li>
                       <a href="#">By Mod Tech Elevators</a>
                     </li>
-                  </ul>
+                  </ul> */}
 
                   <Link href="/blog-details">
                     <a>
@@ -260,15 +260,15 @@ const Blog = () => {
                     the gap.
                   </p>
 
-                  <Link href="/blog-details">
+                  {/* <Link href="/blog-details">
                     <a className="line-bnt">Read More</a>
-                  </Link>
+                  </Link> */}
                 </div>
               </div>
             </div>
 
             {/* Pagination */}
-            <div className="col-lg-12">
+            {/* <div className="col-lg-12">
               <div className="page-navigation-area">
                 <ul className="pagination">
                   <li className="page-item">
@@ -298,7 +298,7 @@ const Blog = () => {
                   </li>
                 </ul>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>

@@ -174,7 +174,7 @@ const CaseStudies = () => {
               <div className="content">
                 <Link href="/blog-details">
                   <a>
-                    <h3>GREEN LAGOON</h3>
+                    <h3>Jeddah Corporations</h3>
                   </a>
                 </Link>
                 <p>
@@ -238,8 +238,9 @@ const CaseStudies = () => {
         <div className="case-btn text-center">
           <p>
             We Have More Elevators that we install
+            <br />
             <Link href="/blog">
-              <a href="#">View More</a>
+              <a href="#"> View More</a>
             </Link>
           </p>
         </div>

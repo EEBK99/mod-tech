@@ -117,12 +117,12 @@ const Footer = () => {
                 <h3 className="ml-40">Contact</h3>
                 <ul className="footer-list foot-social">
                   <li>
-                    <a href="tel:+1975456789">
-                      <i className="bx bx-phone"></i> +92 3008502133
+                    <a href="tel:+92 3008502133">
+                      <i className="bx bx-phone"></i> +92 300 8502133
                     </a>
                   </li>
                   <li>
-                    <a href="mailto:hello@zoko.com">
+                    <a href="mailto:shmtar@yahoo.com">
                       <i className="bx bxs-envelope"></i> shmtar@yahoo.com
                     </a>
                   </li>
@@ -173,7 +173,7 @@ const Footer = () => {
 
               <div className="col-lg-6">
                 <p className="right">
-                  Copyright &copy; {currentYear} ModTech. All Rights Reserved by{" "}
+                  Copyright &copy; {currentYear} All Rights Reserved by ModTech
                 </p>
               </div>
             </div>

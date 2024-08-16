@@ -132,6 +132,7 @@ const BlogPostStyleTwo = () => {
         <div className="blog-btn text-center">
           <p>
             We Have More Usefull Elevators Informartion for you.
+            <br />
             <Link href="/blog">
               <a>View More</a>
             </Link>
